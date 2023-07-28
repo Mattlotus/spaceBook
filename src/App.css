@@ -40,9 +40,23 @@
   height: 32px;
 }
 .icons{
+  /* border: solid blue; */
   display: flex;
   justify-content: space-around;
+  
 }
 .images{
-  width: 52px;
+  width: 32px;
+}
+.red{
+  display: flex;
+  align-items: center;
+}
+.green{
+  display: flex;
+  align-items: center;
+}
+.yellow{
+  display: flex;
+  align-items: center;
 }
