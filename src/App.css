@@ -19,3 +19,30 @@
 .desktop{
   max-width: 1200px;
 }
+.container{
+  /* border: solid red; */
+  width: 600px;
+  margin: auto;
+}
+.post{
+  /* border: solid red; */
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+.yoda{
+  width: 52px;
+}
+.bar{
+  width: 100%;
+  background-color: rgb(210, 205, 205);
+  border-radius: 22px;
+  height: 32px;
+}
+.icons{
+  display: flex;
+  justify-content: space-around;
+}
+.images{
+  width: 52px;
+}
